@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://mqdicer.github.io/sitemap.xml
