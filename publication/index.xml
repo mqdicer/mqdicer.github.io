@@ -5,7 +5,7 @@
     <link>https://mqdicer.github.io/publication/</link>
       <atom:link href="https://mqdicer.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Marcus Alexander</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Marcus Alexander</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mqdicer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Improving HIV Self-Testing Social Network Interventions: The Role of Sexual Behavior Disclosure Among Chinese Men Who Have Sex with Men.</title>
+      <title>The role of social network support in treatment outcomes for medication for opioid use disorder: A systematic review</title>
+      <link>https://mqdicer.github.io/publication/kumar-role-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://mqdicer.github.io/publication/kumar-role-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving HIV self-testing social network interventions: The Role of sexual behavior disclosure among Chinese men who have sex with men.</title>
       <link>https://mqdicer.github.io/publication/kumar-improving-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://mqdicer.github.io/publication/kumar-improving-2021/</guid>
@@ -29,7 +37,7 @@
     </item>
     
     <item>
-      <title>A Secondary Mixed Methods Analysis of a Pay-it-Forward Gonorrhea/Chlamydia Testing Program Among Men Who Have Sex With Men in China.</title>
+      <title>A secondary mixed methods analysis of a pay-it-forward gonorrhea/chlamydia testing program among men who have sex with men in China.</title>
       <link>https://mqdicer.github.io/publication/li-secondary-2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://mqdicer.github.io/publication/li-secondary-2020/</guid>
@@ -45,7 +53,7 @@
     </item>
     
     <item>
-      <title>Mindfulness Meditation Activates Altruism.</title>
+      <title>Mindfulness meditation activates altruism.</title>
       <link>https://mqdicer.github.io/publication/iwamoto-mindfulness-2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://mqdicer.github.io/publication/iwamoto-mindfulness-2020/</guid>
@@ -61,6 +69,22 @@
     </item>
     
     <item>
+      <title>No increase in COVID-19 mortality after the 2020 primary elections in the USA</title>
+      <link>https://mqdicer.github.io/publication/feltham-no-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mqdicer.github.io/publication/feltham-no-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of social network support in treatment outcomes for medication for opioid use disorder: a systematic review</title>
+      <link>https://mqdicer.github.io/publication/kumar-role-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mqdicer.github.io/publication/kumar-role-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pay-it-forward gonorrhea and chlamydia testing among men who have sex with men in China: a study protocol for a three-arm cluster randomized controlled trial.</title>
       <link>https://mqdicer.github.io/publication/zhang-pay-it-forward-2019/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -69,42 +93,10 @@
     </item>
     
     <item>
-      <title>Genomics of Social Networks</title>
-      <link>https://mqdicer.github.io/publication/alexander-genomics-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://mqdicer.github.io/publication/alexander-genomics-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Social Networks and Health of Village Elders: Evidence from Honduras</title>
       <link>https://mqdicer.github.io/publication/alexander-social-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://mqdicer.github.io/publication/alexander-social-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neurobiology of Addicition</title>
-      <link>https://mqdicer.github.io/publication/alexander-neurobiology-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://mqdicer.github.io/publication/alexander-neurobiology-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Histone Modifications in Brain Tumor Stem Cells.</title>
-      <link>https://mqdicer.github.io/publication/alexander-histone-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://mqdicer.github.io/publication/alexander-histone-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reprogramming of Human Adult Cells into Induced Pluripotent Stem Cells (iPSCs)</title>
-      <link>https://mqdicer.github.io/publication/alexander-reprogramming-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://mqdicer.github.io/publication/alexander-reprogramming-2012/</guid>
       <description></description>
     </item>
     
@@ -125,7 +117,7 @@
     </item>
     
     <item>
-      <title>Quantile Regression for Time-Series-Cross-Section Data</title>
+      <title>Quantile regression for time-series-cross-section data</title>
       <link>https://mqdicer.github.io/publication/alexander-quantile-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>https://mqdicer.github.io/publication/alexander-quantile-2011/</guid>
@@ -141,22 +133,6 @@
     </item>
     
     <item>
-      <title>Epigenetic Dysregulation in Human Brain Cancer: PTEN Promoter Methylation and microRNA Upregulation in Glioblastoma</title>
-      <link>https://mqdicer.github.io/publication/alexander-epigenetic-2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://mqdicer.github.io/publication/alexander-epigenetic-2010/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Micro-RNA Profiling of Glioblastoma Multiforme: Prognosis after Brain Tumor Surgery</title>
-      <link>https://mqdicer.github.io/publication/alexander-micro-rna-2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://mqdicer.github.io/publication/alexander-micro-rna-2010/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chronic kidney disease and US healthcare resource utilization in a nationally representative sample.</title>
       <link>https://mqdicer.github.io/publication/alexander-chronic-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
@@ -165,7 +141,7 @@
     </item>
     
     <item>
-      <title>Institutionalizing Cooperation: Public Goods Experiments in the Aftermath of Civil War</title>
+      <title>Institutionalizing cooperation: Public goods experiments in the aftermath of civil war</title>
       <link>https://mqdicer.github.io/publication/alexander-institutionalizing-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://mqdicer.github.io/publication/alexander-institutionalizing-2009/</guid>
@@ -197,7 +173,7 @@
     </item>
     
     <item>
-      <title>Death and Politics: How Partisanship and Inequality Shape Health in the OECD.</title>
+      <title>Death and politics: How partisanship and inequality shape health in the OECD.</title>
       <link>https://mqdicer.github.io/publication/alexander-death-2008/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>https://mqdicer.github.io/publication/alexander-death-2008/</guid>
@@ -205,7 +181,7 @@
     </item>
     
     <item>
-      <title>Democratization and Hybrid Regimes: Comparative Evidence from Southeast Europe</title>
+      <title>Democratization and hybrid regimes: Comparative evidence from Southeast Europe</title>
       <link>https://mqdicer.github.io/publication/alexander-democratization-2008/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>https://mqdicer.github.io/publication/alexander-democratization-2008/</guid>
@@ -229,7 +205,7 @@
     </item>
     
     <item>
-      <title>Determinants of Social Capital: New Evidence on Religion, Diversity and Structural Change</title>
+      <title>Determinants of social capital: New evidence on religion, diversity and structural change</title>
       <link>https://mqdicer.github.io/publication/alexander-determinants-2007/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://mqdicer.github.io/publication/alexander-determinants-2007/</guid>
@@ -237,7 +213,7 @@
     </item>
     
     <item>
-      <title>Is Poverty to Blame for Civil War? New Evidence from Nonlinear Fixed Effects Estimation</title>
+      <title>Is poverty to blame for civil war? New evidence from nonlinear fixed effects estimation</title>
       <link>https://mqdicer.github.io/publication/alexander-is-2006/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://mqdicer.github.io/publication/alexander-is-2006/</guid>
@@ -249,14 +225,6 @@
       <link>https://mqdicer.github.io/publication/alexander-internet-2004/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       <guid>https://mqdicer.github.io/publication/alexander-internet-2004/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>European 3G Mobile Industry Self-Regulation: IAPCODE Background Paper</title>
-      <link>https://mqdicer.github.io/publication/ahlert-european-2003/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://mqdicer.github.io/publication/ahlert-european-2003/</guid>
       <description></description>
     </item>
     
